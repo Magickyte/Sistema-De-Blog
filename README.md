@@ -1,5 +1,5 @@
 # Proyecto 1 - Bases de Datos Avanzadas
-## Blog
+## Sistema de Blog en Python
 
 ### Integrantes:
 - **377043** – Angel Rodriguez Palomino

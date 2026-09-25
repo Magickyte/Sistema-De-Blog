@@ -25,7 +25,7 @@ Autenticación de usuarios validada directamente contra el procedimiento `sp_log
 
 
 ### 2. Panel Principal / Feed y Gestión (Admin & User)
-- **Feed Interactivo:** Visualización de posts en orden cronológico inverso, mostrando autor, fecha, categorías asociadas, etiquetas (badges verdes y sección desplegable de comentarios.
+- **Feed Interactivo:** Visualización de posts en orden cronológico inverso, mostrando autor, fecha, categorías asociadas, etiquetas.
 <img width="698" height="202" alt="vista de blog" src="https://github.com/user-attachments/assets/b7cee329-14a7-41f4-b706-df692f2488a0" />
 
 - **Filtrado Dinámico:** Selector combobox para filtrar publicaciones por categoría.
